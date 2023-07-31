@@ -9,5 +9,14 @@
     top: 500px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    left: 50px;
+    text-align: center;
+}
+.text1 {
+    position: absolute;
+    top: 500px;
+    display: flex;
+    flex-direction: column;
+    left: 50px;
+    text-align: center;
 }
