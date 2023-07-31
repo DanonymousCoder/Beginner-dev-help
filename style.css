@@ -2,7 +2,11 @@
     display: flex;
 }
 .apple {
-   position: absolute; 
+   position: relative; 
+}
+.text {
+    position: absolute;
+    top: 0;
 }
 .orange {
 
