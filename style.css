@@ -12,6 +12,9 @@
     left: 50px;
     text-align: center;
 }
+.orange {
+    position: relative;
+}
 .text1 {
     position: absolute;
     top: 500px;
