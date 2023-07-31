@@ -6,7 +6,7 @@
 }
 .text {
     position: absolute;
-    top: 400px;
+    top: 250px;
     display: flex;
     flex-direction: column;
     left: 200px;
@@ -18,9 +18,12 @@
 }
 .text1 {
     position: absolute;
-    top: 400px;
+    top: 250px;
     display: flex;
     flex-direction: column;
     left: 200px;
     text-align: center;
+}
+h6{
+    font-size: 36px;
 }
